@@ -1,0 +1,4 @@
+{
+   "ExclusiveStartTableName": "string",
+   "Limit": 10
+}
