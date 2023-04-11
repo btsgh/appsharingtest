@@ -1,8 +1,32 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Dynamo",
       "isDefault": true
+    },
+    {
+      "id": "curl",
+      "isDefault": false
+    },
+    {
+      "id": "API",
+      "isDefault": false
+    },
+    {
+      "id": "Gsheet",
+      "isDefault": false
+    },
+    {
+      "id": "Page4",
+      "isDefault": false
+    },
+    {
+      "id": "smtp",
+      "isDefault": false
+    },
+    {
+      "id": "snow",
+      "isDefault": false
     }
   ],
   "viewMode": false,

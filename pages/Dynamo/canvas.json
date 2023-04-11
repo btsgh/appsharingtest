@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Dynamo",
+    "slug": "dynamo",
     "layouts": [
       {
         "viewMode": false,
@@ -182,7 +182,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_Query1",
+              "id": "Dynamo_Query1",
               "name": "Query1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -193,12 +193,13 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Dynamo",
         "deleted": false
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "gitSyncId": "6433fdf9ceee4c73b0f581a9_6433fdfaceee4c73b0f581ac",
   "deleted": false
